@@ -1,0 +1,7 @@
+captures/
+.pio/
+.vscode/
+cameras/src/*.json
+cameras/*.bin
+__pycache__/
+*.pyc
